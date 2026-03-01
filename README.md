@@ -2,7 +2,7 @@
 
 A clean, modern, and fully static single-page website for showcasing and selling books. Built with pure **HTML**, **CSS**, and **JavaScript** — no frameworks, no backend required. Perfect for a personal bookshop, side project, or portfolio demo.
 
-Live Demo: [https://your-project-name.vercel.app](https://your-project-name.vercel.app)  
+Live Demo: [https://mybooksale.vercel.app](https://mybooksale.vercel.app)  
 *(Replace with your actual Vercel URL once deployed)*
 
 ## ✨ Features
